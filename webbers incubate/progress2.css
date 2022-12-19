@@ -1,0 +1,110 @@
+
+label {
+    font-size: small;  
+    font-family: 'gilroy';
+    font-style: normal;
+    
+}
+
+i {
+    color: #62BECB;
+}
+.button1 {
+    background-color:#0F4A7B;
+    color: white;
+    padding: 10px 120px;
+    border: none;
+    font-family: 'gilroy';
+    font-style: normal;
+    font-size: 10px;
+    
+}
+
+input {
+    border-radius: 5px;
+    border: 1px solid #0F4A7B;
+    padding: 6px;
+   
+}
+
+span {
+    color: black;
+    font-size: 15px;
+   left: 330px;
+   position: relative;   
+}
+
+.main {
+
+    color: #0F4A7B;
+    /* background-color: rgb(229, 231, 235); */
+    background-color: #F9FBFD;
+    padding: 40px;
+    width: 330px;
+    margin: 0  auto;
+    }
+
+    .one {
+     font-size: 12px;
+     font-family: 'gilroy';
+    font-style: normal;
+    color: #3E3E40;
+    
+    }
+    .two {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        border-radius: 1px;
+        border: 1px solid #0F4A7B;
+        padding: 15px 20px;
+        background-color: white;
+        margin: 0;
+    }
+    h1 {
+        font-size: small;
+        font-family: 'gilroy';
+        font-weight: 700;
+    }
+
+    img {
+        /* grid-row-start: 2;
+        grid-row-end: 3; 
+        grid-column-start: 3;
+        grid-column-end: 3;   */
+        position: relative;
+        right:-120px;
+    
+    }
+
+    .none {
+        size: 70px;
+    }
+    strong {
+        grid-column-start: 2;
+        grid-column-end: 4;
+        display: block; 
+        font-size: 10px;
+        font-family: 'gilroy';
+        margin-top: 70px;
+        font-weight: 500;
+      
+    }
+    .strong-two {
+        grid-column-start: 3;
+        grid-column-end: 3; 
+        grid-row-start: 2;
+        grid-row-end: 2;
+        margin: 0; 
+        padding: 0;
+    }
+    .three {
+        color: white;
+        background-color:#0F4A7B;
+        font-size: small;
+        font-family: 'gilroy';
+        padding: 10px 15px;
+        border: none;
+        border-radius: 10px;
+        grid-column-start: 2;
+        grid-column-end: 4;
+    }

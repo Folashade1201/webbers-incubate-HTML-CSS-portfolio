@@ -1,0 +1,61 @@
+.best {
+
+color: #0F4A7B;
+/* background-color: rgb(229, 231, 235); */
+background-color: #F9FBFD;
+padding: 40px;
+width: 330px;
+margin: 0  auto;
+}
+
+label {
+    font-size: small;  
+    font-family: 'gilroy';
+    font-style: normal;
+    
+}
+
+span {
+     color: black;
+     font-size: 15px;
+    left: 330px;
+    position: relative;   
+}
+h2 {
+    font-size: small;
+    font-family: 'gilroy';
+    font-weight: 500;
+  
+}
+
+p {
+    font-size: 8px;
+    font-family: 'gilroy-regular';
+    font-style: normal;
+    color: #3E3E40;
+    
+}
+input {
+    border-radius: 5px;
+    border: 1px solid #0F4A7B;
+    padding: 6px;
+   
+}
+select {
+    border-radius: 5px;
+    border: 1px solid #0F4A7B;  
+    font-size: 10px;
+    padding: 11px;
+    color: grey;
+}
+
+button {
+    background-color:#0F4A7B;
+    color: white;
+    padding: 10px 115px;
+    border: none;
+    font-family: 'gilroy';
+    font-style: normal;
+    font-size: 10px;
+    
+}

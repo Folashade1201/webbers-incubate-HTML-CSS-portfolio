@@ -1,0 +1,157 @@
+.header {
+    /* height: 270px; */
+    height: 290px;
+    background-color:#0F4A7B;
+}
+.start,.one,.two,.three,.four,.five,.six,.seven,.eight,.nine,.ten,.eleven,.twelve,.thirteen {
+    box-shadow: 0 4px 10px;
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+    font-family: 'gilroy regular';
+    margin: 0px 50px;
+}
+
+.second,.third,.fourth,.fifth {
+    margin-left: 200px;
+}
+.help {
+    display: grid;
+    grid-template-columns: 5fr 1fr;
+}
+.intervention {
+    padding-left: 80px;
+}
+.drama {
+    top: 5px;
+    margin-left: 90px;
+}
+.avatar {
+    margin-top: 5px;
+}
+.nav{
+    font-size: 60px;
+    color: white;
+    font-family: 'gilroy regular';
+    font-size: bold;
+}
+
+.bullet {
+    color:#DD4833;
+}
+.start {
+    color: white;
+    background:#0F4A7B;
+}
+.shift {
+    margin-left: 80px;
+}
+.shifted {
+    margin-left: 340px;
+}
+.shifter {
+    margin-left: 40px;
+}
+.incredible {
+    background-color: #DD4833;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 10px;
+    font-family: 'gilroy regular';
+    font-size: 20px;
+    margin-left: 930px;
+}
+   
+.awesome {
+    background-color: #DD4833;
+    color: white;
+    border: none;
+    padding: 8px 20px;
+    border-radius: 10px;
+    font-family: 'gilroy';
+    font-size: 15px;
+    margin-left: 100px;
+}
+.beautiful {
+    box-shadow: 0 4px 10px;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: 'gilroy regular';
+}
+.mild{
+    background-color: #DD4833;
+    color: white;
+    border: none;
+    padding: 8px 30px;
+    border-radius: 5px;
+    font-family: 'gilroy';
+    font-size: 15px;
+    font-weight: 900;
+}
+.milder {
+        background-color: white;
+        color: #62BECB;
+        border: 1px solid #62BECB ;
+        padding: 8px 30px;
+        border-radius: 5px;
+        font-family: 'gilroy';
+        font-size: 15px;
+        font-weight: 900;
+}
+.plus {
+    font-size: 25px;
+    font-weight: 900;
+}
+.project {
+    margin-left: 50px;
+}
+
+
+.special-links a{
+    background-color:white;
+    color:#0F4A7B;
+    border: 1px solid #0F4A7B;
+    padding: 5px;
+    border-radius: 5px;
+    text-decoration: none;
+  }
+  .special-links a:hover{
+    background-color:#0F4A7B;
+    color:white;
+  }
+
+  .footer{
+    height: 80px;
+    background-color:#0F4A7B;
+    display: grid;
+    grid-template-columns: 2fr 3fr;
+    padding-top: 15px;
+  }
+  .footer-strong {
+    font-family: 'gilroy';
+    font-style: italic;
+    color: #62BECB;
+    font-weight:900;
+  }
+  .side3 a,.side2 {
+    text-decoration: none;
+    font-family: 'gilroy';
+    color: white;
+  }
+  .side1{
+    padding-left: 60px;
+  }
+
+  .side4{
+        font-size: 20px;
+        color: white;
+        font-family: 'gilroy';
+        margin-left: 700px;
+  }
+  .side4 a {
+    text-decoration: none;
+    background-color: #0F4A7B;
+    color: white;
+  }
+ 
